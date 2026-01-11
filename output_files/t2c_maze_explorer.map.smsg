@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at t2c_maze_explorer.v(10): object "move" differs only in case from object "MOVE" in the same scope File: C:/Users/MoulikBose/Desktop/mb_2770_task2c/t2c_maze_explorer/code/t2c_maze_explorer.v Line: 10
+Info (10281): Verilog HDL Declaration information at t2c_maze_explorer.v(6): object "left" differs only in case from object "LEFT" in the same scope File: C:/Users/MoulikBose/Desktop/mb_2770_task2c/t2c_maze_explorer/code/t2c_maze_explorer.v Line: 6
+Info (10281): Verilog HDL Declaration information at t2c_maze_explorer.v(8): object "right" differs only in case from object "RIGHT" in the same scope File: C:/Users/MoulikBose/Desktop/mb_2770_task2c/t2c_maze_explorer/code/t2c_maze_explorer.v Line: 8
